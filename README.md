@@ -1,3 +1,2 @@
 ### Hi there 👋
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasonskipper&repo=jasonskipper)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jasonskipper/jasonskipper)
